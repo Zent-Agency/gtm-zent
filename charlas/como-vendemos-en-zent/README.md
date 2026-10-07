@@ -13,14 +13,14 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (31 diapositivas, 40 minutos)
+## Agenda (28 diapositivas, 38 minutos + 2 de margen)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
 | 1 | Apertura y errores | 4 | cover, agenda, todos-venden, errores |
 | 2 | Cómo deciden las personas | 5 | s-decision, experiencia, dos-sistemas, desafio, conveniencia-deseo, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
-| 4 | Del primer café a la decisión | 6 | s-discovery, mapa, proceso, costo-no-actuar, preguntas, objeciones |
+| 4 | Del primer café a la decisión | 4 | costo-no-actuar, preguntas, objeciones |
 | 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, propuesta-ser, video-heineken, dato-impacto |
 | 6 | Que nos encuentren | 3 | s-visibilidad, social-selling, ia-comercial |
 | 7 | Compromisos, Kahoot y cierre | 10 | compromisos, kahoot, cierre |
@@ -36,6 +36,8 @@ de atención, embudo, prompt y la cita final.
 - Experiencia: ¿qué cliente tenemos hoy en "mayor a 1"?
 - Ejercicio en parejas: escribir la propuesta de valor (3 min).
 - Objeciones: sumar una objeción que no esté en la lista.
+
+También se sacaron, a pedido: la portada del bloque de discovery, el mapa de poder del cliente y el proceso consultivo en 6 pasos.
 - Video de Heineken con consigna previa y debrief de 1 minuto.
 - Kahoot de 20 preguntas al final (unos 9 minutos; mostrar el podio cada 5 preguntas).
 
@@ -57,9 +59,9 @@ desde esa misma pantalla y pegar las filas (mismas columnas y en el mismo orden)
 | 8 | ¿Cuál de estos es uno de los 5 drivers psicológicos de compra? | Evitar un dolor o un temor | 20 |
 | 9 | Cuando un cliente contrata un agente de IA, ¿qué compra en realidad? | Capacidad sin sumar estructura | 20 |
 | 10 | En la fórmula de la propuesta de valor, ¿qué va después de "evitando..."? | El dolor principal | 20 |
-| 11 | En el mapa de poder del cliente, ¿quién tiene la autoridad y la firma? | El decisor | 20 |
-| 12 | En proyectos de IA, ¿quién suele ser el bloqueador típico? | Quien teme ser reemplazado | 20 |
-| 13 | ¿En qué paso del proceso consultivo el cliente percibe la urgencia de actuar? | Problematizar | 20 |
+| 11 | Según el dato popular, ¿cuántos segundos de atención tiene una persona? | 8 segundos | 20 |
+| 12 | Objeción: "Nuestros datos no están listos". ¿Qué respondemos? | Ordenarlos es parte de la etapa inicial | 20 |
+| 13 | ¿Qué pregunta de discovery ayuda a medir el costo de no actuar? | Si esto sigue igual 12 meses, ¿qué les cuesta? | 20 |
 | 14 | La gente compra cuando el costo de no hacer nada es... | Mayor al costo de actuar | 20 |
 | 15 | ¿Qué pregunta de discovery sirve para definir el éxito del proyecto? | ¿Qué tendrían que ver en 6 meses para decir que funcionó? | 20 |
 | 16 | Objeción: "Ya usamos ChatGPT". ¿Cuál es la mejor respuesta? | Una herramienta no es un proceso adoptado, medido y mantenido | 20 |

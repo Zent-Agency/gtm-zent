@@ -22,9 +22,6 @@
     "que-compran",
     "formula",
     "ejercicio",
-    "s-discovery",
-    "mapa",
-    "proceso",
     "costo-no-actuar",
     "preguntas",
     "objeciones",
@@ -58,8 +55,8 @@
       "start": "s-valor"
     },
     "s5": {
-      "description": "Del primer café a la decisión: mapa de poder, discovery y objeciones.",
-      "start": "s-discovery"
+      "description": "Costo de no actuar, preguntas de discovery y objeciones.",
+      "start": "costo-no-actuar"
     },
     "s6": {
       "description": "Comunicar para que nos elijan: historias, impacto y persuasión.",
