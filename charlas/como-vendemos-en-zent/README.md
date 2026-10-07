@@ -52,7 +52,7 @@ desde esa misma pantalla y pegar las filas (mismas columnas y en el mismo orden)
 | 3 | ¿Cuál de estos NO es uno de los 6 errores comunes en B2B? | Preguntar cuánto le cuesta hoy el problema | 20 |
 | 4 | Experiencia = (producto + servicio) dividido por... | Necesidad + deseo | 20 |
 | 5 | Si vendemos magia, un agente que funciona bien igual se siente... | Menor a 1: decepción | 20 |
-| 6 | En la decisión de compra, el sistema rápido decide. ¿Qué hace el sistema lento? | Justifica | 20 |
+| 6 | En el modelo de Roger Sperry, ¿qué lógica corresponde al hemisferio derecho? | La lógica de la creencia | 20 |
 | 7 | ¿Cuál de estos es un deseo emocional, no una conveniencia racional? | Ser quien modernizó la empresa | 20 |
 | 8 | ¿Cuál de estos es uno de los 5 drivers psicológicos de compra? | Evitar un dolor o un temor | 20 |
 | 9 | Cuando un cliente contrata un agente de IA, ¿qué compra en realidad? | Capacidad sin sumar estructura | 20 |
@@ -79,7 +79,8 @@ historia, dato vs. impacto y social selling. Se usan las fotos e ilustraciones d
 infografías con marca, y las estadísticas de Argentina 2024 (desactualizadas para octubre 2026).
 
 **Se reemplazó por rigor:**
-- Hemisferio izquierdo/derecho (Sperry) por los dos sistemas de Kahneman: mismo mensaje, mejor respaldo.
+- El modelo de hemisferios de Roger Sperry se mantiene con las palabras originales; en las notas se aclara
+  que es una simplificación y que la versión actual de la idea son los dos sistemas de Kahneman.
 - "Atención de 8 segundos, menos que un pez dorado" y la regla 7-38-55 de Mehrabian: quedaron
   afuera porque son datos muy discutidos.
 - "Método IMPACT®" se presenta como "proceso consultivo en 6 pasos", con crédito en las notas.
