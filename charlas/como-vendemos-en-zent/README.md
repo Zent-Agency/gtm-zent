@@ -1,6 +1,6 @@
 # Nadie compra un agente de IA
 
-_Psicología de la decisión y ventas B2B en Zent_
+_Que nos compren por lo que vale, no por lo que cuesta. Psicología de la decisión y ventas B2B en Zent._
 
 Charla interna de 40 minutos para todo el equipo (comercial y delivery), con un Kahoot de cierre.
 Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA para captar clientes"
