@@ -13,14 +13,14 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (33 diapositivas, 38 minutos + 2 de margen)
+## Agenda (36 diapositivas, 38 minutos + 2 de margen)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
 | 1 | Apertura y errores | 4 | cover, agenda, todos-venden, errores |
 | 2 | Cómo deciden las personas | 5 | s-decision, dos-sistemas, seres-emocionales, eligen-conveniencia-deseo, desafio, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
-| 4 | Del primer café a la decisión | 4 | costo-no-actuar, economist-oferta, economist-resultado, economist-zent, preguntas, objeciones |
+| 4 | Del primer café a la decisión | 4 | costo-no-actuar, economist-oferta, economist-resultado, economist-zent, anclaje-experimento, anclaje-resultado, anclaje-zent, preguntas, objeciones |
 | 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, atencion-curva, atencion-superarlo, propuesta-ser, video-heineken, dato-impacto |
 | 6 | Que nos encuentren | 3 | s-visibilidad, social-selling, ia-comercial |
 | 7 | Compromisos, Kahoot y cierre | 10 | compromisos, kahoot, cierre |
@@ -35,6 +35,7 @@ de atención, embudo, prompt y la cita final.
 - Errores: mano levantada para quienes vieron cada error este mes.
 - Ejercicio en parejas: escribir la propuesta de valor (3 min).
 - The Economist (Dan Ariely): votar a mano alzada A, B o C antes de ver los resultados.
+- Anclaje (Dan Ariely): cada uno anota los dos últimos dígitos de su DNI y cuánto pagaría por un teclado.
 - Objeciones: sumar una objeción que no esté en la lista.
 
 También se sacaron, a pedido: la portada del bloque de discovery, el mapa de poder del cliente y el proceso consultivo en 6 pasos.
