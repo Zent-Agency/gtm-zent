@@ -34,8 +34,8 @@ de atención, embudo, prompt y la cita final.
 - Todos vendemos: dos respuestas rápidas del público.
 - Errores: mano levantada para quienes vieron cada error este mes.
 - Ejercicio en parejas: escribir la propuesta de valor (3 min).
-- The Economist (Dan Ariely): votar a mano alzada A, B o C antes de ver los resultados.
-- Anclaje (Dan Ariely): cada uno anota los dos últimos dígitos de su DNI y cuánto pagaría por un teclado.
+- The Economist: votar a mano alzada A, B o C antes de ver los resultados.
+- Anclaje de precios: cada uno anota los dos últimos dígitos de su DNI y cuánto pagaría por un teclado.
 - Objeciones: sumar una objeción que no esté en la lista.
 
 También se sacaron, a pedido: la portada del bloque de discovery, el mapa de poder del cliente y el proceso consultivo en 6 pasos.
