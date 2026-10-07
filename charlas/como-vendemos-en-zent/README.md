@@ -13,12 +13,12 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (30 diapositivas, 38 minutos + 2 de margen)
+## Agenda (31 diapositivas, 38 minutos + 2 de margen)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
 | 1 | Apertura y errores | 4 | cover, agenda, todos-venden, errores |
-| 2 | Cómo deciden las personas | 5 | s-decision, experiencia, dos-sistemas, desafio, conveniencia-deseo, drivers |
+| 2 | Cómo deciden las personas | 5 | s-decision, experiencia, dos-sistemas, seres-emocionales, desafio, conveniencia-deseo, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
 | 4 | Del primer café a la decisión | 4 | costo-no-actuar, preguntas, objeciones |
 | 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, atencion-curva, atencion-superarlo, propuesta-ser, video-heineken, dato-impacto |
