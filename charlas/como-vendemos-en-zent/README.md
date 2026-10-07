@@ -13,12 +13,12 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (31 diapositivas, 38 minutos + 2 de margen)
+## Agenda (30 diapositivas, 38 minutos + 2 de margen)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
 | 1 | Apertura y errores | 4 | cover, agenda, todos-venden, errores |
-| 2 | Cómo deciden las personas | 5 | s-decision, experiencia, dos-sistemas, seres-emocionales, eligen-conveniencia-deseo, desafio, drivers |
+| 2 | Cómo deciden las personas | 5 | s-decision, dos-sistemas, seres-emocionales, eligen-conveniencia-deseo, desafio, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
 | 4 | Del primer café a la decisión | 4 | costo-no-actuar, preguntas, objeciones |
 | 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, atencion-curva, atencion-superarlo, propuesta-ser, video-heineken, dato-impacto |
@@ -33,7 +33,6 @@ de atención, embudo, prompt y la cita final.
 - Agenda: se anuncia el Kahoot desde el principio ("todo lo de hoy entra en las preguntas").
 - Todos vendemos: dos respuestas rápidas del público.
 - Errores: mano levantada para quienes vieron cada error este mes.
-- Experiencia: ¿qué cliente tenemos hoy en "mayor a 1"?
 - Ejercicio en parejas: escribir la propuesta de valor (3 min).
 - Objeciones: sumar una objeción que no esté en la lista.
 
@@ -52,8 +51,8 @@ desde esa misma pantalla y pegar las filas (mismas columnas y en el mismo orden)
 | 1 | En Zent, ¿quién vende? | Todo el equipo, también delivery | 20 |
 | 2 | Verdadero o falso: que el gerente nos caiga bien significa que tiene intención de compra. | Falso | 10 |
 | 3 | ¿Cuál de estos NO es uno de los 6 errores comunes en B2B? | Preguntar cuánto le cuesta hoy el problema | 20 |
-| 4 | Experiencia = (producto + servicio) dividido por... | Necesidad + deseo | 20 |
-| 5 | Si vendemos magia, un agente que funciona bien igual se siente... | Menor a 1: decepción | 20 |
+| 4 | Según la diapositiva de los tres cerebros, ¿qué porcentaje de la decisión es emocional? | 85% | 20 |
+| 5 | En B2B, ¿cuál de estos es un deseo emocional del cliente? | Gestión fácil: no quiero transpirar | 20 |
 | 6 | En el modelo de Roger Sperry, ¿qué lógica corresponde al hemisferio derecho? | La lógica de la creencia | 20 |
 | 7 | ¿Cuál de estos es un deseo emocional, no una conveniencia racional? | Ser quien modernizó la empresa | 20 |
 | 8 | ¿Cuál de estos es uno de los 5 drivers psicológicos de compra? | Evitar un dolor o un temor | 20 |
