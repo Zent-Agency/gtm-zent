@@ -1,4 +1,6 @@
-# Cómo vendemos en Zent
+# Nadie compra un agente de IA
+
+_Psicología de la decisión y ventas B2B en Zent_
 
 Charla interna de 60 minutos para todo el equipo (comercial y delivery).
 Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA para captar clientes"
