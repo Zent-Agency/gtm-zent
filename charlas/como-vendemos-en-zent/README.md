@@ -49,26 +49,26 @@ desde esa misma pantalla y pegar las filas (mismas columnas y en el mismo orden)
 
 | # | Pregunta | Respuesta correcta | Seg |
 |---|---|---|---|
-| 1 | Según la charla, ¿qué dispara la decisión de compra? | La confianza y el deseo | 20 |
-| 2 | Según la curva de atención, ¿cuánta audiencia se pierde a los 10 minutos? | 35% | 20 |
-| 3 | ¿Qué recupera la atención durante una charla o una demo? | Una broma, una historia o una pregunta | 20 |
-| 4 | Según la diapositiva de los tres cerebros, ¿qué porcentaje de la decisión es emocional? | 85% | 20 |
+| 1 | En el modelo de los hemisferios, el hemisferio izquierdo responde a la lógica de... | La conveniencia | 20 |
+| 2 | Según la diapositiva de los tres cerebros, ¿qué porcentaje de la decisión es emocional? | 85% | 20 |
+| 3 | ¿Qué cerebro se encarga del instinto: sobrevivir, reaccionar, respirar? | El reptiliano | 20 |
+| 4 | Verdadero o falso: somos seres racionales que sienten. | Falso | 10 |
 | 5 | En B2B, ¿cuál de estos es un deseo emocional del cliente? | Gestión fácil: no quiero transpirar | 20 |
-| 6 | En el modelo de Roger Sperry, ¿qué lógica corresponde al hemisferio derecho? | La lógica de la creencia | 20 |
-| 7 | ¿Cuál de estos es un deseo emocional, no una conveniencia racional? | Ser quien modernizó la empresa | 20 |
-| 8 | ¿Cuál de estos es uno de los 5 drivers psicológicos de compra? | Evitar un dolor o un temor | 20 |
-| 9 | Cuando un cliente contrata un agente de IA, ¿qué compra en realidad? | Capacidad sin sumar estructura | 20 |
-| 10 | En la fórmula de la propuesta de valor, ¿qué va después de "evitando..."? | El dolor principal | 20 |
-| 11 | Según el dato popular, ¿cuántos segundos de atención tiene una persona? | 8 segundos | 20 |
-| 12 | Objeción: "Nuestros datos no están listos". ¿Qué respondemos? | Ordenarlos es parte de la etapa inicial | 20 |
-| 13 | ¿Qué pregunta de discovery ayuda a medir el costo de no actuar? | Si esto sigue igual 12 meses, ¿qué les cuesta? | 20 |
-| 14 | La gente compra cuando el costo de no hacer nada es... | Mayor al costo de actuar | 20 |
-| 15 | ¿Qué pregunta de discovery sirve para definir el éxito del proyecto? | ¿Qué tendrían que ver en 6 meses para decir que funcionó? | 20 |
-| 16 | Objeción: "Ya usamos ChatGPT". ¿Cuál es la mejor respuesta? | Una herramienta no es un proceso adoptado, medido y mantenido | 20 |
-| 17 | ¿Cuál de estos NO es uno de los 5 filtros de una propuesta que convence? | Larga y detallada | 20 |
-| 18 | ¿Qué hacía Heineken con las notas de voz de más de 3 minutos? | Las cambiaba por una cerveza para verse en persona | 20 |
-| 19 | Verdadero o falso: en el caso de The Economist, la opción "sólo impresa" estaba para que nadie la eligiera. | Verdadero | 10 |
-| 20 | Según el anclaje de precios, ¿qué conviene mostrar antes que nuestro precio? | El costo del problema para el cliente | 20 |
+| 6 | Según la charla, ¿qué dispara la decisión de compra? | La confianza y el deseo | 20 |
+| 7 | ¿Cuál de estos es uno de los 5 drivers psicológicos de compra? | Evitar un dolor o un temor | 20 |
+| 8 | Cuando un cliente contrata un agente de IA, ¿qué compra en realidad? | Capacidad sin sumar estructura | 20 |
+| 9 | En la fórmula de la propuesta de valor, ¿qué va después de "evitando..."? | El dolor principal | 20 |
+| 10 | La gente compra cuando el costo de no hacer nada es... | Mayor al costo de actuar | 20 |
+| 11 | En el caso de The Economist, ¿qué porcentaje eligió impresa + web? | 84% | 20 |
+| 12 | ¿Para qué estaba la opción "sólo impresa" a US$ 125? | Para que la opción completa pareciera un regalo | 20 |
+| 13 | En el experimento del teclado, ¿qué número funcionó como ancla? | Los dos últimos dígitos del documento | 20 |
+| 14 | Según el anclaje de precios, ¿qué conviene mostrar antes que nuestro precio? | El costo del problema para el cliente | 20 |
+| 15 | Objeción: "Ya usamos ChatGPT". ¿Cuál es la mejor respuesta? | Una herramienta no es un proceso adoptado, medido y mantenido | 20 |
+| 16 | Según la curva de atención, ¿cuánta audiencia se pierde a los 10 minutos? | 35% | 20 |
+| 17 | Video de Heineken: ¿qué tenías que reenviarle por WhatsApp? | Una nota de voz de más de 3 minutos | 20 |
+| 18 | Video de Heineken: ¿qué recibías a cambio? | Un cupón de cerveza y bares cerca para juntarte en persona | 20 |
+| 19 | Video de Heineken: ¿en qué país se lanzó la campaña? | Brasil | 20 |
+| 20 | Video de Heineken: ¿qué insight usó la marca? | Las notas de voz largas reemplazan los encuentros reales | 20 |
 
 ## Qué se mantuvo, qué cambió y qué es nuevo
 
