@@ -9,9 +9,6 @@
   "cover": "cover",
   "order": [
     "cover",
-    "agenda",
-    "todos-venden",
-    "errores",
     "s-decision",
     "dos-sistemas",
     "seres-emocionales",
@@ -42,12 +39,8 @@
   ],
   "sections": {
     "s1": {
-      "description": "Apertura: por qué en Zent todos vendemos.",
+      "description": "Apertura.",
       "start": "cover"
-    },
-    "s2": {
-      "description": "Los errores que nos hacen perder ventas.",
-      "start": "errores"
     },
     "s3": {
       "description": "Cómo deciden las personas: razón, emoción y drivers de compra.",

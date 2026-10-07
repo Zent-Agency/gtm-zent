@@ -9,15 +9,15 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Deck: https://claude.ai/artifact/FXm2rAEac1u2Yv5fuiFKdn
 - Fuentes del deck: `deck.json` (orden y secciones) y `slides/*.html` (una diapositiva por archivo,
   con las notas del presentador en el `<aside>` de cada una).
-- Kahoot: `kahoot-preguntas.xlsx` (20 preguntas: 2 de verdadero o falso a 10 segundos y 18 a 20 segundos).
+- Kahoot: `kahoot-preguntas.xlsx` (20 preguntas: 1 de verdadero o falso a 10 segundos y 19 a 20 segundos).
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (31 diapositivas)
+## Agenda (28 diapositivas)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
-| 1 | Apertura y errores | 4 | cover, agenda, todos-venden, errores |
+| 1 | Apertura | 1 | cover |
 | 2 | Cómo deciden las personas | 5 | s-decision, dos-sistemas, seres-emocionales, eligen-conveniencia-deseo, desafio, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
 | 4 | Del primer café a la decisión | 4 | costo-no-actuar, economist-oferta, economist-resultado, economist-zent, anclaje-experimento, anclaje-resultado, anclaje-zent, preguntas, objeciones |
@@ -49,9 +49,9 @@ desde esa misma pantalla y pegar las filas (mismas columnas y en el mismo orden)
 
 | # | Pregunta | Respuesta correcta | Seg |
 |---|---|---|---|
-| 1 | En Zent, ¿quién vende? | Todo el equipo, también delivery | 20 |
-| 2 | Verdadero o falso: que el gerente nos caiga bien significa que tiene intención de compra. | Falso | 10 |
-| 3 | ¿Cuál de estos NO es uno de los 6 errores comunes en B2B? | Preguntar cuánto le cuesta hoy el problema | 20 |
+| 1 | Según la charla, ¿qué dispara la decisión de compra? | La confianza y el deseo | 20 |
+| 2 | Según la curva de atención, ¿cuánta audiencia se pierde a los 10 minutos? | 35% | 20 |
+| 3 | ¿Qué recupera la atención durante una charla o una demo? | Una broma, una historia o una pregunta | 20 |
 | 4 | Según la diapositiva de los tres cerebros, ¿qué porcentaje de la decisión es emocional? | 85% | 20 |
 | 5 | En B2B, ¿cuál de estos es un deseo emocional del cliente? | Gestión fácil: no quiero transpirar | 20 |
 | 6 | En el modelo de Roger Sperry, ¿qué lógica corresponde al hemisferio derecho? | La lógica de la creencia | 20 |
@@ -100,3 +100,4 @@ propuesta de valor, tres compromisos y el Kahoot.
 - `[N]` facturas en `dato-impacto`: idealmente reemplazar todo el ejemplo por un caso real.
 
 También se sacaron, a pedido: dato vs. impacto, el bloque "Que nos encuentren" (portada, social selling e IA en nuestra venta) y los tres compromisos.
+También se sacaron, a pedido: la agenda, "Todos vendemos" y "Los 6 errores más comunes en B2B".
