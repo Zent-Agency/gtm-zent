@@ -1,33 +1,91 @@
 {
   "v": 4,
-  "createdOnFiles": {"v": 1, "at": "2026-10-06T22:10:00Z"},
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-06T22:10:00Z"
+  },
   "lists": "css",
   "title": "Nadie compra un agente de IA",
   "cover": "cover",
   "order": [
-    "cover", "agenda", "todos-venden",
-    "errores", "objetivos",
-    "s-decision", "experiencia", "dos-sistemas", "desafio", "conveniencia-deseo", "drivers",
-    "s-valor", "que-compran", "circulo", "formula", "ejercicio",
-    "s-discovery", "mapa", "proceso", "costo-no-actuar", "preguntas", "objeciones",
-    "s-comunicar", "propuesta-ser", "dato-impacto", "persuasion", "atencion",
-    "s-visibilidad", "social-selling", "embudo", "ia-comercial", "prompt",
-    "compromisos", "cita", "cierre"
+    "cover",
+    "agenda",
+    "todos-venden",
+    "errores",
+    "s-decision",
+    "experiencia",
+    "dos-sistemas",
+    "desafio",
+    "conveniencia-deseo",
+    "drivers",
+    "s-valor",
+    "que-compran",
+    "formula",
+    "ejercicio",
+    "s-discovery",
+    "mapa",
+    "proceso",
+    "costo-no-actuar",
+    "preguntas",
+    "objeciones",
+    "s-comunicar",
+    "propuesta-ser",
+    "video-heineken",
+    "dato-impacto",
+    "s-visibilidad",
+    "social-selling",
+    "ia-comercial",
+    "compromisos",
+    "kahoot",
+    "cierre"
   ],
   "sections": {
-    "s1": {"description": "Apertura: por qué en Zent todos vendemos.", "start": "cover"},
-    "s2": {"description": "Los errores que nos hacen perder ventas y lo que queremos lograr.", "start": "errores"},
-    "s3": {"description": "Cómo deciden las personas: razón, emoción y drivers de compra.", "start": "s-decision"},
-    "s4": {"description": "La propuesta de valor de Zent y un ejercicio para escribirla.", "start": "s-valor"},
-    "s5": {"description": "Del primer café a la decisión: mapa de poder, discovery y objeciones.", "start": "s-discovery"},
-    "s6": {"description": "Comunicar para que nos elijan: historias, impacto y persuasión.", "start": "s-comunicar"},
-    "s7": {"description": "Visibilidad, embudo comercial e IA aplicada a nuestra venta.", "start": "s-visibilidad"},
-    "s8": {"description": "Compromisos del equipo y cierre.", "start": "compromisos"}
+    "s1": {
+      "description": "Apertura: por qué en Zent todos vendemos.",
+      "start": "cover"
+    },
+    "s2": {
+      "description": "Los errores que nos hacen perder ventas.",
+      "start": "errores"
+    },
+    "s3": {
+      "description": "Cómo deciden las personas: razón, emoción y drivers de compra.",
+      "start": "s-decision"
+    },
+    "s4": {
+      "description": "La propuesta de valor de Zent y un ejercicio para escribirla.",
+      "start": "s-valor"
+    },
+    "s5": {
+      "description": "Del primer café a la decisión: mapa de poder, discovery y objeciones.",
+      "start": "s-discovery"
+    },
+    "s6": {
+      "description": "Comunicar para que nos elijan: historias, impacto y persuasión.",
+      "start": "s-comunicar"
+    },
+    "s7": {
+      "description": "Social selling e IA aplicada a nuestra venta.",
+      "start": "s-visibilidad"
+    },
+    "s8": {
+      "description": "Compromisos, Kahoot y cierre.",
+      "start": "compromisos"
+    }
   },
   "faces": {
-    "space-grotesk": {"family": "Space Grotesk", "href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"},
-    "dm-sans": {"family": "DM Sans", "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&display=swap"},
-    "jetbrains-mono": {"family": "JetBrains Mono", "href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap"}
+    "space-grotesk": {
+      "family": "Space Grotesk",
+      "href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"
+    },
+    "dm-sans": {
+      "family": "DM Sans",
+      "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&display=swap"
+    },
+    "jetbrains-mono": {
+      "family": "JetBrains Mono",
+      "href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap"
+    }
   },
   "designSystems": []
 }
