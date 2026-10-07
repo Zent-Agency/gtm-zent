@@ -95,7 +95,6 @@ propuesta de valor, tres compromisos y el Kahoot.
 
 ## Para completar antes de la charla
 
-- `[Nombre del presentador]` en la portada.
 - `[PIN]` y `[premio]` en la diapositiva del Kahoot.
 - Tener el video de Heineken abierto en otra pestaña y el audio probado.
 - La propuesta de valor de Zent en `formula` es un borrador para discutir.
