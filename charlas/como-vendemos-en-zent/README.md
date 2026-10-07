@@ -13,7 +13,7 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (30 diapositivas, 40 minutos)
+## Agenda (31 diapositivas, 40 minutos)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
@@ -21,7 +21,7 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 | 2 | Cómo deciden las personas | 5 | s-decision, experiencia, dos-sistemas, desafio, conveniencia-deseo, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
 | 4 | Del primer café a la decisión | 6 | s-discovery, mapa, proceso, costo-no-actuar, preguntas, objeciones |
-| 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, propuesta-ser, video-heineken, dato-impacto |
+| 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, propuesta-ser, video-heineken, dato-impacto |
 | 6 | Que nos encuentren | 3 | s-visibilidad, social-selling, ia-comercial |
 | 7 | Compromisos, Kahoot y cierre | 10 | compromisos, kahoot, cierre |
 
@@ -81,8 +81,9 @@ infografías con marca, y las estadísticas de Argentina 2024 (desactualizadas p
 **Se reemplazó por rigor:**
 - El modelo de hemisferios de Roger Sperry se mantiene con las palabras originales; en las notas se aclara
   que es una simplificación y que la versión actual de la idea son los dos sistemas de Kahneman.
-- "Atención de 8 segundos, menos que un pez dorado" y la regla 7-38-55 de Mehrabian: quedaron
-  afuera porque son datos muy discutidos.
+- "Atención de 8 segundos, menos que un pez dorado": se usa como gancho del bloque de comunicación,
+  con una aclaración en el pie y en las notas de que es un dato muy discutido.
+- La regla 7-38-55 de Mehrabian quedó afuera por la misma razón.
 - "Método IMPACT®" se presenta como "proceso consultivo en 6 pasos", con crédito en las notas.
 
 **Temas nuevos propuestos para Zent:** todos vendemos, preguntas de discovery, objeciones en
