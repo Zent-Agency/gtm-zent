@@ -37,11 +37,6 @@
     "atencion-superarlo",
     "propuesta-ser",
     "video-heineken",
-    "dato-impacto",
-    "s-visibilidad",
-    "social-selling",
-    "ia-comercial",
-    "compromisos",
     "kahoot",
     "cierre"
   ],
@@ -70,13 +65,9 @@
       "description": "Comunicar para que nos elijan: historias, impacto y persuasión.",
       "start": "s-comunicar"
     },
-    "s7": {
-      "description": "Social selling e IA aplicada a nuestra venta.",
-      "start": "s-visibilidad"
-    },
     "s8": {
-      "description": "Compromisos, Kahoot y cierre.",
-      "start": "compromisos"
+      "description": "Kahoot y cierre.",
+      "start": "kahoot"
     }
   },
   "faces": {

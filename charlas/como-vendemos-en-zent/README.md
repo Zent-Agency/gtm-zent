@@ -13,7 +13,7 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 - Video: Heineken "Could Have Been a Heineken" (LePub, Brasil), caso en https://www.adsoftheworld.com/campaigns/could-have-been-a-heineken-case-study
 - Prompt para crear contenido (quedó fuera del deck, para compartir después): `prompt-contenido.html`.
 
-## Agenda (36 diapositivas, 38 minutos + 2 de margen)
+## Agenda (31 diapositivas)
 
 | # | Bloque | Min | Diapositivas |
 |---|--------|-----|--------------|
@@ -21,9 +21,8 @@ Adaptada de la presentación "Venta B2B aplicando la neuropsicología y la IA pa
 | 2 | Cómo deciden las personas | 5 | s-decision, dos-sistemas, seres-emocionales, eligen-conveniencia-deseo, desafio, drivers |
 | 3 | Nuestra propuesta de valor + ejercicio (3 min) | 6 | s-valor, que-compran, formula, ejercicio |
 | 4 | Del primer café a la decisión | 4 | costo-no-actuar, economist-oferta, economist-resultado, economist-zent, anclaje-experimento, anclaje-resultado, anclaje-zent, preguntas, objeciones |
-| 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, atencion-curva, atencion-superarlo, propuesta-ser, video-heineken, dato-impacto |
-| 6 | Que nos encuentren | 3 | s-visibilidad, social-selling, ia-comercial |
-| 7 | Compromisos, Kahoot y cierre | 10 | compromisos, kahoot, cierre |
+| 5 | Comunicar para que nos elijan + video | 6 | s-comunicar, atencion-pez, atencion-curva, atencion-superarlo, propuesta-ser, video-heineken |
+| 6 | Kahoot y cierre | 10 | kahoot, cierre |
 
 Para recortar a 40 minutos se sacaron: objetivos, círculo de oro, principios de persuasión, curva
 de atención, embudo, prompt y la cita final.
@@ -68,8 +67,8 @@ desde esa misma pantalla y pegar las filas (mismas columnas y en el mismo orden)
 | 16 | Objeción: "Ya usamos ChatGPT". ¿Cuál es la mejor respuesta? | Una herramienta no es un proceso adoptado, medido y mantenido | 20 |
 | 17 | ¿Cuál de estos NO es uno de los 5 filtros de una propuesta que convence? | Larga y detallada | 20 |
 | 18 | ¿Qué hacía Heineken con las notas de voz de más de 3 minutos? | Las cambiaba por una cerveza para verse en persona | 20 |
-| 19 | Verdadero o falso: el social selling es 80% venta y 20% contenido. | Falso | 10 |
-| 20 | ¿Cuál es uno de los tres compromisos para el lunes? | Ninguna reunión termina sin siguiente paso | 20 |
+| 19 | Verdadero o falso: en el caso de The Economist, la opción "sólo impresa" estaba para que nadie la eligiera. | Verdadero | 10 |
+| 20 | Según el anclaje de precios, ¿qué conviene mostrar antes que nuestro precio? | El costo del problema para el cliente | 20 |
 
 ## Qué se mantuvo, qué cambió y qué es nuevo
 
@@ -99,3 +98,5 @@ propuesta de valor, tres compromisos y el Kahoot.
 - Tener el video de Heineken abierto en otra pestaña y el audio probado.
 - La propuesta de valor de Zent en `formula` es un borrador para discutir.
 - `[N]` facturas en `dato-impacto`: idealmente reemplazar todo el ejemplo por un caso real.
+
+También se sacaron, a pedido: dato vs. impacto, el bloque "Que nos encuentren" (portada, social selling e IA en nuestra venta) y los tres compromisos.
